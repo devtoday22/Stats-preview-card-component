@@ -1,7 +1,7 @@
 # Stats-preview-card-component
 I created it from Frontend mentory website exercise. 
 There are desktop and mobile responsive version
-You can visit LIVE link: http://developers.today/stats/
+You can visit LIVE link: https://devtoday22.github.io/Stats-preview-card-component/
 I use only HTML and CSS.
 I added it some meta tags, which improves SEO and google search.
 
